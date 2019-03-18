@@ -12,17 +12,13 @@
 
     <header class="banner">
 
-      <div class="hometopleft">
-          <h2>3 Amazing British Musicians</h2>
-        </div>
-
-        <div class="hometopright">
+          <h2> 3 Amazing British Musicians</h2>
+        
            <?php include "inc/nav.php";?>
-        </div>
+      
 
     </header>
-
-    <main>
+        
         <article>
             
             <h1>Adele</h1>
@@ -132,7 +128,6 @@
 
         </article>    
 
-    </main>
 
     <footer>
 

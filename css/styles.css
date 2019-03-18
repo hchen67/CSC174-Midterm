@@ -15,11 +15,27 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Oswald', serif;
+    margin: 0 auto;
+    padding: 0 auto;
+    position: relative;
+    width: 100%;
+    height: auto;
 }
 
 body p {
     font-size: 18px;
     font-family: 'Karla', sans-serif;
+}
+
+header {
+    display: grid;
+    height: auto;
+    padding: 10px 30px;
+    margin: 0 auto;
+}
+
+header h1 {
+    margin: 0 auto;
 }
 
 footer {
@@ -51,6 +67,7 @@ article h1 {
 }
 
 nav {
+    margin-left: 42%;
     margin-top: 25px;
     padding-bottom: 10px;
 }
@@ -85,12 +102,6 @@ nav a{
 /************Layout Rules****************/
 
 /************Module Rules****************/
-.container1, .container2 {
-    margin: 0 auto;
-    width: 95%;
-    max-width: 960px;
-}
-
 
 .banner {
     display: flex;
@@ -105,14 +116,7 @@ nav a{
     color: #fffece;
 }
 
-.hometopleft {
-    width: 600px;
-    margin-top: 1px;
-}
 
-.hometopright {
-    flex-grow: 1;
-}
 
 .homebotleft {
     width: 600px;

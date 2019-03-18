@@ -124,17 +124,14 @@ mail($emailTo, $subject, $body, "From: <$emailFrom>");
   </head>
 
 
-<body>
+<body class="container4">
 
     <header class="banner">
 
-      <div class="hometopleft">
           <h2> 3 Amazing British Musicians</h2>
-        </div>
-
-        <div class="hometopright">
+        
            <?php include "inc/nav.php";?>
-        </div>
+      
 
     </header>
 
@@ -149,7 +146,6 @@ mail($emailTo, $subject, $body, "From: <$emailFrom>");
 <!-- Write stuff here that the browser will ignore as commenting outcode appears here -->
 
 
-</div><!--.container-->
 
 </body>
 

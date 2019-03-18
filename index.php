@@ -8,23 +8,19 @@
 
   </head>
 
-<body class=“container1”>
+
+<body class="firstcontainer">
 
     <header class="banner">
 
-    	<div class="hometopleft">
   	      <h2> 3 Amazing British Musicians</h2>
-  	    </div>
-
-        <div class="hometopright">
+  	    
            <?php include "inc/nav.php";?>
-        </div>
+      
 
     </header>
 
 
-
-    <main>
 
     	<div class="slider">
 
@@ -32,9 +28,8 @@
             <img src="images/ed.jpg" alt="Ed Sheeran">
             <img src="images/elton.jpg" alt="Elton John">
 
-		</div>
+		  </div>
  
-    </main>
 
     <footer>
 
