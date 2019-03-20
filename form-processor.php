@@ -124,9 +124,9 @@ mail($emailTo, $subject, $body, "From: <$emailFrom>");
   </head>
 
 
-<body class="container4">
+<body class='container4'>
 
-    <header class="banner">
+    <header class="banner2">
 
           <h2> 3 Amazing British Musicians</h2>
         

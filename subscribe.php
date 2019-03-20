@@ -8,9 +8,9 @@
   </head>
 
 
-  <body class="container3">
+  <body class='container3'>
 
-    <header class="banner">
+    <header class="banner2">
 
           <h2> 3 Amazing British Musicians</h2>
         
@@ -21,7 +21,7 @@
 
   <div class="form">
 
-  <form method="post" action="form-processor.php" class="full-width">
+  <form method="post" action="form-processor.php">
         <!-- all form elements and other HTML in here -->
         Name: <input type="text" name="name"><br>
         Your E-mail: <input type="text" name="email"><br>

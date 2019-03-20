@@ -8,9 +8,9 @@
 
   </head>
 
-<body class=“container2”>
+<body class='container2'>
 
-    <header class="banner">
+    <header class='banner2'>
 
           <h2> 3 Amazing British Musicians</h2>
         
@@ -21,7 +21,7 @@
         
         <article>
             
-            <h1>Adele</h1>
+            <h1 class='text1'>Adele</h1>
             <div class="text">
 
                 <div>
@@ -129,18 +129,20 @@
         </article>    
 
 
-    <footer>
+
+    <footer class='footer2'>
 
     <div class="homebotleft">
           <p>CSC174 Midterm - Musicians</p>
     </div>
 
 
-    <div class="homebotright">
-          <p><a href="subscribe.php">Subscribe</a></p>
+    <div class='homebotright'>
+            <p><a href="subscribe.php">Subscribe</a></p>
     </div>
 
     </footer>
+
 
 <?php include "inc/scripts.php";?>
 

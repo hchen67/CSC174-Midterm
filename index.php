@@ -9,11 +9,11 @@
   </head>
 
 
-<body class="firstcontainer">
+<body class='firstcontainer'>
 
-    <header class="banner">
+    <header class='banner'>
 
-  	      <h2> 3 Amazing British Musicians</h2>
+  	      <h2 class='fly'> 3 Amazing British Musicians</h2>
   	    
            <?php include "inc/nav.php";?>
       
@@ -31,14 +31,14 @@
 		  </div>
  
 
-    <footer>
+    <footer class='footer1'>
 
     <div class="homebotleft">
           <p>CSC174 Midterm - Home</p>
     </div>
 
 
-    <div class="homebotright">
+    <div class='homebotright'>
 	        <p><a href="subscribe.php">Subscribe</a></p>
     </div>
 
